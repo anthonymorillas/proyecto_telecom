@@ -7,9 +7,6 @@ Este proyecto contiene un código para cargar, preprocesar datos y entrenar un m
 <h3 align="left">Requisitos</h3>
 Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
 
-'- Python 3.11.5
+ - Python 3.11.5
 
     - Bibliotecas Python necesarias: Puedes instalarlas utilizando el archivo requirements.txt.
-
-<h2 align="left">Requisitos</h2>
-Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
