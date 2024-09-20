@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
     - git clone https://github.com/tu-usuario/tu-repositorio.git
 
  - Navega al directorio del proyecto:
-    cd tu-repositorio
+        cd tu-repositorio
  - Instala las dependencias del proyecto utilizando pip:
     pip install -r requirements.txt
 
