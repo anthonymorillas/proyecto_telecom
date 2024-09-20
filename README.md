@@ -33,8 +33,8 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
 <h3 align="left">Ejecutar el Código</h3>
 Para ejecutar el código, sigue estos pasos:
 
-    1. Asegúrate de tener los archivos de datos listos para cargar en el directorio correspondiente (si es necesario).
-    2. Ejecuta el script principal que llama a las funciones de cada archivo para cargar, preprocesar los datos y entrenar el modelo:
+1. Asegúrate de tener los archivos de datos listos para cargar en el directorio correspondiente (si es necesario).
+2. Ejecuta el script principal que llama a las funciones de cada archivo para cargar, preprocesar los datos y entrenar el modelo:
 
         python main.py
 
