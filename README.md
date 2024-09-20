@@ -13,7 +13,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
 <h3 align="left">Instalar Dependencias</h3>
 
  - Clona este repositorio en tu máquina local:
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    - git clone https://github.com/tu-usuario/tu-repositorio.git
 
  - Navega al directorio del proyecto:
     cd tu-repositorio
